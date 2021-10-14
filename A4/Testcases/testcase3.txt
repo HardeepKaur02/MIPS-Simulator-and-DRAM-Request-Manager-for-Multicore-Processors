@@ -1,0 +1,4 @@
+addi $s0, $zero, a
+addi $zero, $zero, 15
+lw $t0, 0($s0)
+addi $s0, $s0, 4
