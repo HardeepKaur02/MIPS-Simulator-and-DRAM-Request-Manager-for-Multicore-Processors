@@ -1,0 +1,5 @@
+	addi $s0, $zero, 0
+	addi $s1, $zero, 0
+	lw $t0, 1000($s0)
+	lw $t1, 3000($s1)
+	lw $t0, 1004($s1)

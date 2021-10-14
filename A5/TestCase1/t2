@@ -1,0 +1,9 @@
+addi $t1,$t1,4
+addi $t1,$t1,4
+addi $t1,$t1,4
+addi $t1,$t1,4
+lw $t0, 8($zero)
+addi $t1,$t1,4
+addi $t1,$t1,4
+addi $t1,$t1,4
+addi $t1,$t1,4

@@ -1,0 +1,5 @@
+Data stored in DRAM after cycle :34
+Data stored in DRAM after cycle :44
+Data stored in DRAM after cycle :54
+Data stored in DRAM after cycle :64
+Data stored in DRAM after cycle :74
